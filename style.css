@@ -5,5 +5,22 @@ body {
 .qr-card {
     background: hsl(0, 0%, 100%);
     display: grid;
-    grid-row: auto;
+    justify-items: center;
+    align-items: center;
+    width: 500px;
+    height: 1000px;
+}
+
+img{
+    display: flex;
+    width:400px;
+    height: 400px;
+    align-content: start;
+}
+
+.para-1{
+    display: flex;
+}
+.para-scan{
+    display: flex;
 }
