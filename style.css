@@ -14,7 +14,6 @@ body {
     width: 300px;
     height: 400px;
     border-radius: 8px;
-    grid-row-gap: 10px;
     text-align: center;
 }
 
@@ -29,9 +28,12 @@ img{
     font-weight: 700;
     text-align: center;
     color: hsl(218, 44%, 22%);
+    padding: 10px;
 }
 .para-scan{
     text-align: center;
     font-weight: 400;
     color: hsl(220, 15%, 55%);
+    padding: 10px;
+    padding-bottom: 30px;
 }
