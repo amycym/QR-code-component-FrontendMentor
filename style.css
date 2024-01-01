@@ -1,0 +1,9 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.qr-card {
+    background: hsl(0, 0%, 100%);
+    display: grid;
+    grid-row: auto;
+}
